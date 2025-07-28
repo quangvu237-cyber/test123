@@ -1,1 +1,0 @@
-alert("chào mừng bạn đến với học lập trình");
